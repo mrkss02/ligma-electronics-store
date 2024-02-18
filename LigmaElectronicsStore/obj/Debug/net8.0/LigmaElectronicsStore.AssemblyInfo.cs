@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LigmaElectronicsStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3545498fd69b770bb845979fcabd8b84ed9dcf29")]
 [assembly: System.Reflection.AssemblyProductAttribute("LigmaElectronicsStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LigmaElectronicsStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
